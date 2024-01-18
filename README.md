@@ -1,2 +1,2 @@
 # Exploratory Data Analysis
-This is a personal solo project done on pokemon dataset.
+This is a solo project done on pokemon dataset in R using R Studio.
