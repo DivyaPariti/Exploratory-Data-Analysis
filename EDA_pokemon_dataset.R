@@ -119,30 +119,3 @@ ggplot(data = fire_pokemon_dataframe, aes(x = height_m, y = weight_kg)) + geom_p
 ggplot(data = fire_pokemon_dataframe, aes(x = sp_attack, y = sp_defense)) + geom_point(color = "steelblue")
 ggplot(data = fire_pokemon_dataframe, aes(x = hp)) + geom_histogram(fill = 'plum4', col = "black")
 ggplot(data = fire_pokemon_dataframe, aes(x = is_legendary)) + geom_bar(fill = "slateblue", col = "black")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
